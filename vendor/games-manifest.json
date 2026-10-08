@@ -3712,7 +3712,7 @@
   },
   {
     "file": "cldrivenwild.html",
-    "title": "Driven Wild! 🚗🌴",
+    "title": "Driven Wild! \ud83d\ude97\ud83c\udf34",
     "letter": "D",
     "logo": "vendor/game-logos/cldrivenwild-4b031459.png",
     "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/driven-wild/assets/DrivenWild.png"
@@ -10894,23 +10894,23 @@
     "letter": "P"
   },
   {
-    "file": "clPokémon Emerald Rush Edition (20).html",
-    "title": "Pokémon Emerald Rush Edition (20)",
+    "file": "clPok\u00e9mon Emerald Rush Edition (20).html",
+    "title": "Pok\u00e9mon Emerald Rush Edition (20)",
     "letter": "P"
   },
   {
-    "file": "clPokémon Trade&_Stache (V11).html",
-    "title": "Pokémon Trade& Stache (V11)",
+    "file": "clPok\u00e9mon Trade&_Stache (V11).html",
+    "title": "Pok\u00e9mon Trade& Stache (V11)",
     "letter": "P"
   },
   {
-    "file": "clPokémon TWO (v11).html",
-    "title": "Pokémon TWO (v11)",
+    "file": "clPok\u00e9mon TWO (v11).html",
+    "title": "Pok\u00e9mon TWO (v11)",
     "letter": "P"
   },
   {
-    "file": "clPokémonstunningsteel.html",
-    "title": "Pokémonstunningsteel",
+    "file": "clPok\u00e9monstunningsteel.html",
+    "title": "Pok\u00e9monstunningsteel",
     "letter": "P"
   },
   {
@@ -12360,7 +12360,7 @@
   },
   {
     "file": "clsilk.html",
-    "title": "Silk – Interactive Generative Art",
+    "title": "Silk \u2013 Interactive Generative Art",
     "letter": "S",
     "logo": "vendor/game-logos/clsilk-335b357d.png",
     "logoSource": "http://weavesilk.com/img/silk_thumb.png"
@@ -14548,7 +14548,7 @@
   },
   {
     "file": "cltaisei.html",
-    "title": "Taisei Project — Web version (Experimental!)",
+    "title": "Taisei Project \u2014 Web version (Experimental!)",
     "letter": "T",
     "logo": "vendor/game-logos/cltaisei-1b326d99.png",
     "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/taisei/favicon.ico"
@@ -16067,7 +16067,7 @@
   },
   {
     "file": "clwrestlebros.html",
-    "title": "Wrestle Bros 🎮 Play Now on the Official Site",
+    "title": "Wrestle Bros \ud83c\udfae Play Now on the Official Site",
     "letter": "W",
     "logo": "vendor/game-logos/clwrestlebros-38bb3993.png",
     "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@0e4ecd6d318272b62cd671011d5afe60aec66321/wrestle%20bros/favicon.png"
@@ -16261,13 +16261,13 @@
     "letter": "Z"
   },
   {
-    "file": "clÖoo.html",
-    "title": "Öoo",
-    "letter": "Ö"
+    "file": "cl\u00d6oo.html",
+    "title": "\u00d6oo",
+    "letter": "\u00d6"
   },
   {
-    "file": "clʘ.html",
-    "title": "ʘ",
-    "letter": "ʘ"
+    "file": "cl\u0298.html",
+    "title": "\u0298",
+    "letter": "\u0298"
   }
 ]
