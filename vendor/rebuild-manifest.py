@@ -4,6 +4,16 @@ import json, re
 from pathlib import Path
 games = Path(__file__).parent / "games"
 out = Path(__file__).parent / "games-manifest.json"
+existing = {}
+if out.is_file():
+    try:
+        existing = {
+            entry.get("file"): entry
+            for entry in json.loads(out.read_text(encoding="utf-8"))
+            if isinstance(entry, dict) and entry.get("file")
+        }
+    except (json.JSONDecodeError, OSError):
+        existing = {}
 manifest = []
 for p in sorted(games.iterdir()):
     if not p.is_file():
@@ -20,7 +30,18 @@ for p in sorted(games.iterdir()):
     letter = t[0].upper() if t else "#"
     if not letter.isalpha():
         letter = "#"
-    manifest.append({"file": name, "title": t, "letter": letter})
+    previous = existing.get(name, {})
+    entry = {
+        "file": name,
+        "title": previous.get("title") or t,
+        "letter": previous.get("letter") or letter,
+    }
+    logo = previous.get("logo")
+    if logo and (out.parent.parent / logo).is_file():
+        entry["logo"] = logo
+        if previous.get("logoSource"):
+            entry["logoSource"] = previous["logoSource"]
+    manifest.append(entry)
 manifest.sort(key=lambda x: (x["letter"], x["title"].lower()))
 out.write_text(json.dumps(manifest, indent=2))
 print("wrote", len(manifest), "games ->", out)
