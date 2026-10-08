@@ -1,0 +1,1472 @@
+[
+  {
+    "file": "cl13bones.html",
+    "title": "13 Bones",
+    "letter": "#",
+    "logo": "vendor/game-logos/cl13bones-cd69107b.png",
+    "logoSource": "https://rawcdn.githack.com/shayderrr/portsv3/ef59d92e598f5baf31aacc8548ebcc455af63a4c/13bones/html-classic.itch.zone/html/16424331/13_bones_webgl/index.icon.png"
+  },
+  {
+    "file": "cl20smallmazes.html",
+    "title": "20 Small Mazes",
+    "letter": "#",
+    "logo": "vendor/game-logos/cl20smallmazes-09e1d08a.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/20smallmazes/index.apple-touch-icon.png"
+  },
+  {
+    "file": "cl2048.html",
+    "title": "2048",
+    "letter": "#",
+    "logo": "vendor/game-logos/cl2048-3a94b87b.png",
+    "logoSource": "http://gabrielecirulli.github.io/2048/meta/og_image.png"
+  },
+  {
+    "file": "clangrybirdsslingshotfrenzy.html",
+    "title": "Angry Birds Slingshot Frenzy",
+    "letter": "A",
+    "logo": "vendor/game-logos/clangrybirdsslingshotfrenzy-3e26804b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/UGBONTOP/firebaseport-angrybirds-remaster/icons/icon-128.png"
+  },
+  {
+    "file": "clanimalcrossing.html",
+    "title": "Animal Crossing",
+    "letter": "A",
+    "logo": "vendor/game-logos/clanimalcrossing-f3e8220d.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/web-ports/ac-gamecube@main/icon-192.png"
+  },
+  {
+    "file": "clantimatterdimensions.html",
+    "title": "Antimatter Dimensions",
+    "letter": "A",
+    "logo": "vendor/game-logos/clantimatterdimensions-0b1c7f6b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/IvarK/AntimatterDimensions@master/icon.png"
+  },
+  {
+    "file": "clarchesspelago.html",
+    "title": "Archesspelago",
+    "letter": "A",
+    "logo": "vendor/game-logos/clarchesspelago-5b6eadd0.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/archesspalago/index.icon.png"
+  },
+  {
+    "file": "classesmentexaminationque.html",
+    "title": "Assesmentexaminationque",
+    "letter": "A",
+    "logo": "vendor/game-logos/classesmentexaminationque-e1d71222.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@15e85c42612500024c1cb8743f7f0e79fbc6ccbd/examination%20or%20smth/index.icon.png"
+  },
+  {
+    "file": "clbaldidecomp.html",
+    "title": "Baldi's Basics The Ultra Decompile",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbaldidecomp-ae3e99f2.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/AppIcon.png"
+  },
+  {
+    "file": "clbananasimulator.html",
+    "title": "banana simulator",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbananasimulator-aa80e756.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/ruffle@ad6ffa3289c102eb4a4aced92a17e4ea291603d5/bananasim.png"
+  },
+  {
+    "file": "clbaseballbros.html",
+    "title": "BASEBALL BROS!",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbaseballbros-16ecfcdc.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@ae6706e5224c55594c491edfc7f5ad541e2ea02b/baseball%20bros/favicon.png"
+  },
+  {
+    "file": "clbasketslamdunk2.html",
+    "title": "Basketslamdunk 2",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbasketslamdunk2-0722d555.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/yrgen73/BSD2@174be0db9145f7375365bda889a200e5cd31bbe0/icons/icon-512.png"
+  },
+  {
+    "file": "clbazookaboy.html",
+    "title": "bazookaboy",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbazookaboy-edc4ddd8.png",
+    "logoSource": "https://rawcdn.githack.com/bubbls/youtube-playables/main/bazooka-boy/assets/2d/loading/Loading_Logo.png"
+  },
+  {
+    "file": "clbearsus.html",
+    "title": "Bearsus",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbearsus-7715ea2c.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/bearsus/icons/icon-256.png"
+  },
+  {
+    "file": "clbergentruck201x.html",
+    "title": "BERGENTRUCK_201X",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbergentruck201x-7f666c08.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/web-port@main/bergentruck/BERGENTRUCK_201X.apple-touch-icon.png"
+  },
+  {
+    "file": "clbouncymotors.html",
+    "title": "bouncymotors",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbouncymotors-56859b7b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/CoolDude2349/bouncy@main/icon.png"
+  },
+  {
+    "file": "clbrawlsimulator3d.html",
+    "title": "brawlsimulator3d",
+    "letter": "B",
+    "logo": "vendor/game-logos/clbrawlsimulator3d-03b8e744.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/brawl-3d/Images/logo.png"
+  },
+  {
+    "file": "clBrawlstars.html",
+    "title": "Brawlstars",
+    "letter": "B",
+    "logo": "vendor/game-logos/clBrawlstars-6edce5d6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/ragdoi-archers/zort@main/icon.png"
+  },
+  {
+    "file": "clcaptchaware.html",
+    "title": "CaptchaWare",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcaptchaware-6dbdf8fb.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS/MISC/captcha/index.icon.png"
+  },
+  {
+    "file": "clcapybaraclicker.html",
+    "title": "Capybara Clicker",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcapybaraclicker-69107f6e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@027a7fc4b20820dc401547a74cf4f2ee875cd3e2/capybara%20clicker/logo-capybara-licker.png"
+  },
+  {
+    "file": "clcavecrawler.html",
+    "title": "Cave Crawler",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcavecrawler-2d7701bb.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/cavecrawler/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clclashofvikings.html",
+    "title": "Clash Of Vikings",
+    "letter": "C",
+    "logo": "vendor/game-logos/clclashofvikings-396d7cbe.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/clashofvikings/media/graphics/splash/mobile/cover-start.jpg"
+  },
+  {
+    "file": "clclassof09.html",
+    "title": "Class of '09",
+    "letter": "C",
+    "logo": "vendor/game-logos/clclassof09-652fe673.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/web-port@main/class-of-09/icons/icon.png"
+  },
+  {
+    "file": "clcoldfront.html",
+    "title": "Cold Front",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcoldfront-eefe60c9.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/shayderrr/idkugssuggestion@ec34844ada90ae2a936ec57337c1b871be5fa8a8/www/icon/icon.png"
+  },
+  {
+    "file": "clcolormatch.html",
+    "title": "Colormatch",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcolormatch-bea68682.png",
+    "logoSource": "https://rawcdn.githack.com/bubbls/youtube-playables/main/color-match/icon.png"
+  },
+  {
+    "file": "clcrankit!.html",
+    "title": "Crank It!",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcrankit-fa865913.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/SWAGgames@main/crankit/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clcrazycattle3d.html",
+    "title": "CrazyCattle3D",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcrazycattle3d-1c9be0d3.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/cc3d-merge/index.icon.png"
+  },
+  {
+    "file": "clcrazymotorcycle.html",
+    "title": "crazymotorcycle",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcrazymotorcycle-3bf10c8b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/CoolDude2349/everything@main/crazymotor/icon.png"
+  },
+  {
+    "file": "clcreaturecardidle.html",
+    "title": "Creature Card Idle",
+    "letter": "C",
+    "logo": "vendor/game-logos/clcreaturecardidle-0b3c9a0f.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/creature-card-idle/favicon.ico"
+  },
+  {
+    "file": "clcuttherope.html",
+    "title": "Cut the Rope",
+    "letter": "C",
+    "logo": "vendor/game-logos/cut-the-rope-om-nom.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/ctr@main/og/images/favicon.ico"
+  },
+  {
+    "file": "clcuttheropeholiday.html",
+    "title": "Cut the Rope: Holiday Gift",
+    "letter": "C",
+    "logo": "vendor/game-logos/cut-the-rope-om-nom.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/ctr@main/og/images/favicon.ico"
+  },
+  {
+    "file": "clcuttheropetimetravel.html",
+    "title": "Cut the Rope: Time Travel",
+    "letter": "C",
+    "logo": "vendor/game-logos/cut-the-rope-om-nom.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/ctr@main/og/images/favicon.ico"
+  },
+  {
+    "file": "cldbsniper.html",
+    "title": "Dbsniper",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldbsniper-132041b9.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/dbsniper/index.icon.png"
+  },
+  {
+    "file": "cldeadplate.html",
+    "title": "DEAD PLATE",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldeadplate-63dd38a3.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/web-port@main/dead-plate/icon/icon.png"
+  },
+  {
+    "file": "cldodecadragons.html",
+    "title": "dodecadragons",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldodecadragons-ac53aba8.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/dodeca/img/logo.png"
+  },
+  {
+    "file": "cldogeminer.html",
+    "title": "Dogeminer",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldogeminer-73bc7edc.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/DogeMiner/favicon.ico"
+  },
+  {
+    "file": "cldreadheadparkour.html",
+    "title": "Dreadhead Parkour",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldreadheadparkour-fa40eea6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/cooldude2349/everything@main/dreadheadparkour/icons/icon-128.png"
+  },
+  {
+    "file": "cldrivemad.html",
+    "title": "Drive Mad",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldrivemad-63797782.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/finalities/dmad-poki@49b5ab6b987f5f3be58f9dae59c92e8fc1aab9b0/webapp/cover.jpg"
+  },
+  {
+    "file": "cldrivenwild.html",
+    "title": "Driven Wild! 🚗🌴",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldrivenwild-4b031459.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/driven-wild/assets/DrivenWild.png"
+  },
+  {
+    "file": "clducklingsio.html",
+    "title": "ducklingsio",
+    "letter": "D",
+    "logo": "vendor/game-logos/clducklingsio-ded8292b.png",
+    "logoSource": "https://ducklings.io/img/thumb.png"
+  },
+  {
+    "file": "cldungeonsanddegenerategambler.html",
+    "title": "Dungeons & Degenerate Gamblers",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldungeonsanddegenerategambler-b29be8e1.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/dungeon-degen/index.icon.png"
+  },
+  {
+    "file": "cldungeonsanddegenerategamblerdebug.html",
+    "title": "Dungeons & Degenerate Gamblers",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldungeonsanddegenerategamblerdebug-39bc465a.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/dungeon-degen-debug/gamble.apple-touch-icon.png"
+  },
+  {
+    "file": "cldungeonsanddegenerategamblers.html",
+    "title": "Dungeons & Degenerate Gamblers",
+    "letter": "D",
+    "logo": "vendor/game-logos/cldungeonsanddegenerategamblers-7837aaee.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/dungeongamble/gamble.apple-touch-icon.png"
+  },
+  {
+    "file": "clegg.html",
+    "title": "Egg",
+    "letter": "E",
+    "logo": "vendor/game-logos/clegg-ace1e893.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/egg/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clescalatingduel.html",
+    "title": "EscalatingDuel",
+    "letter": "E",
+    "logo": "vendor/game-logos/clescalatingduel-a183a675.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/escalating-duel/icons/icon-256.png"
+  },
+  {
+    "file": "clescaperoad.html",
+    "title": "Escape Road",
+    "letter": "E",
+    "logo": "vendor/game-logos/clescaperoad-0f467d7a.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/abisdbest/classroom.google.com@45b2d69c626dc365753f6922d2c48c4075683ef5/drive.google.com/escape%20road/car-icon.png"
+  },
+  {
+    "file": "clexoobservation.html",
+    "title": "Exoobservation",
+    "letter": "E",
+    "logo": "vendor/game-logos/clexoobservation-20ded923.ico",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/exo-observation/favicon.ico"
+  },
+  {
+    "file": "clextremerun3d.html",
+    "title": "Extreme Run 3D",
+    "letter": "E",
+    "logo": "vendor/game-logos/clextremerun3d-507c9dfd.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/faralong/all@main/extremerun/logo.png"
+  },
+  {
+    "file": "clfearassessment.html",
+    "title": "Fear Assessment",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfearassessment-d532c575.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/shayderrr/portsv4@715fc257ff1afbde48faa9faf30902bb93cb977e/8991133/Fear%20Assessment%20HTML%202.0/icon-256.png"
+  },
+  {
+    "file": "clfisheatgettingbig.html",
+    "title": "FishEatGettingBig",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfisheatgettingbig-2b6c1be7.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@5f29e7882a21bcc33ff3bb6ab1638a459da2ae94/fish-eat-big/icons/512x512.png"
+  },
+  {
+    "file": "clFNAF2.html",
+    "title": "FNAF2",
+    "letter": "F",
+    "logo": "vendor/game-logos/clFNAF2-af863449.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fnaf@latest/2/favicon.ico"
+  },
+  {
+    "file": "clFNAF3.html",
+    "title": "FNAF3",
+    "letter": "F",
+    "logo": "vendor/game-logos/clFNAF3-014ce223.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fnaf@latest/3/favicon.ico"
+  },
+  {
+    "file": "clFNAF4.html",
+    "title": "FNAF4",
+    "letter": "F",
+    "logo": "vendor/game-logos/clFNAF4-4e9fd85b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fnaf@latest/4/favicon.ico"
+  },
+  {
+    "file": "clfnaf4halloween.html",
+    "title": "fnaf4halloween",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnaf4halloween-30abe317.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fnaf@latest/4-halloween/favicon.ico"
+  },
+  {
+    "file": "clfnafps.html",
+    "title": "fnafps",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnafps-8d456af9.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fnaf@f9b32ba6486504f1f6a2117c3201590fcbb132c5/ps/favicon.ico"
+  },
+  {
+    "file": "clfnafucn.html",
+    "title": "fnafucn",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnafucn-090a52bc.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fnaf@latest/ucn/favicon.ico"
+  },
+  {
+    "file": "clfnafworldd.html",
+    "title": "fnafworldd",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnafworldd-fff8840b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fnaf@latest/w/favicon.ico"
+  },
+  {
+    "file": "clfnaw.html",
+    "title": "fnaw",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnaw-9a018194.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/FNAW-main/favicon.ico"
+  },
+  {
+    "file": "clfnfsoft.html",
+    "title": "FNF SOFT Online (Friday Night Funkin')",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfsoft-4f50d929.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/soft/favicon.png"
+  },
+  {
+    "file": "clshaggy.html",
+    "title": "FNF VS Shaggy",
+    "letter": "F",
+    "logo": "vendor/game-logos/clshaggy-856185cf.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/shaggy/favicon.png"
+  },
+  {
+    "file": "clfnfagoti.html",
+    "title": "Fnfagoti",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfagoti-f30dd3b7.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/agoti/favicon.png"
+  },
+  {
+    "file": "clfnfanimation.html",
+    "title": "Fnfanimation",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfanimation-befd7a30.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/animation/favicon.png"
+  },
+  {
+    "file": "clfnfcamelliarudeblaster.html",
+    "title": "Fnfcamelliarudeblaster",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfcamelliarudeblaster-a2ff54dd.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@dc03eaf9807af93db9daf4510d396dff898f0705/camellia-rude-buster/favicon.png"
+  },
+  {
+    "file": "clfnfdokitakeoverplus.html",
+    "title": "Fnfdokitakeover+",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfdokitakeoverplus-3349a36b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/doki-takeover-plus/favicon.png"
+  },
+  {
+    "file": "clfnffnaf1.html",
+    "title": "Fnffnaf 1",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnffnaf1-43febdae.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@dbdf272148d47429d3f019f5f2c226f9d6e140a9/fnaf1/favicon.png"
+  },
+  {
+    "file": "clfnffnaf3.html",
+    "title": "Fnffnaf 3",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnffnaf3-d968df5e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/fnaf-3/favicon.png"
+  },
+  {
+    "file": "clfnfgodot.html",
+    "title": "Fnfgodot",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfgodot-cc7e46b8.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/shayderrr/newports@6923d8d3c6272e81d2d9d54440d4e2450c47e89b/fnf/index.icon.png"
+  },
+  {
+    "file": "clfnfgoldenapple.html",
+    "title": "Fnfgoldenapple",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfgoldenapple-2e8a0479.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/golden-apple/favicon.png"
+  },
+  {
+    "file": "clfnfimposterv4.html",
+    "title": "Fnfimposterv 4",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfimposterv4-0bf2f2d6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/imposter-v4%20copy/favicon.png"
+  },
+  {
+    "file": "clfnfmadnesspoop.html",
+    "title": "Fnfmadnesspoop",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfmadnesspoop-efe3c29b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@253947143ab294367894f433f54d35a28c1e78d1/madness-0201A/favicon.png"
+  },
+  {
+    "file": "clfnfmaginagematches.html",
+    "title": "Fnfmaginagematches",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfmaginagematches-4834c503.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/maginage-matches/favicon.png"
+  },
+  {
+    "file": "clfnfshaggy4keys.html",
+    "title": "Fnfshaggy 4 Keys",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfshaggy4keys-443dc529.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggy-4key/favicon.png"
+  },
+  {
+    "file": "clfnfshaggyxmatt.html",
+    "title": "Fnfshaggyxmatt",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfshaggyxmatt-e9635b38.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/shaggyxmatt/favicon.png"
+  },
+  {
+    "file": "clfnfstarlightmayhem.html",
+    "title": "Fnfstarlightmayhem",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfstarlightmayhem-c2ed7afb.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/starlight-mayhem/favicon.png"
+  },
+  {
+    "file": "clfnftailsgetstrolled.html",
+    "title": "Fnftailsgetstrolled",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnftailsgetstrolled-5f6ff3c3.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/tails-gets-trolledv2/favicon.png"
+  },
+  {
+    "file": "clfnftricky.html",
+    "title": "Fnftricky",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnftricky-514c4a5c.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/tricky/favicon.png"
+  },
+  {
+    "file": "clfnfundertale.html",
+    "title": "Fnfundertale",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfundertale-b3e1628e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@latest/undertale/favicon.png"
+  },
+  {
+    "file": "clfnfvoid.html",
+    "title": "Fnfvoid",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfvoid-7d29c247.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@5b03befe7318e2256e4f304ff21262cee710177b/void/favicon.png"
+  },
+  {
+    "file": "clfnfwaltenfiles.html",
+    "title": "Fnfwaltenfiles",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfwaltenfiles-627543ed.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/walten-files/favicon.png"
+  },
+  {
+    "file": "clfnfwednesday-infedility.html",
+    "title": "Fnfwednesday Infedility",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfnfwednesday-infedility-d0a84aa6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/wednesday-infedility/favicon.png"
+  },
+  {
+    "file": "clfootballbros.html",
+    "title": "Footballbros",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfootballbros-b42f423f.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@d7f8079f5d979182e04f05b1ade24f2a757253a3/football%20bros/favicon.png"
+  },
+  {
+    "file": "clvsnonsense.html",
+    "title": "Friday Night Funkin' Vs Nonsense",
+    "letter": "F",
+    "logo": "vendor/game-logos/clvsnonsense-52ae06fa.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/mll-enh/die@fe0e5b08118dacdefc79f2b1427b283be80a9447/nonsence/favicon.png"
+  },
+  {
+    "file": "clfunnyshooter2.html",
+    "title": "Funny Shooter 2",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfunnyshooter2-5ec3f0de.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/lolshooter2-main/logo.png"
+  },
+  {
+    "file": "clfunnybattle.html",
+    "title": "funnybattle",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfunnybattle-b48426cb.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/CoolDude2349/everything@main/funnybattle/logo.png"
+  },
+  {
+    "file": "clfunnybattle2.html",
+    "title": "funnybattle2",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfunnybattle2-591a9db6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/CoolDude2349/everything@main/funnybattle2/logo.png"
+  },
+  {
+    "file": "clfunnyshooter22.html",
+    "title": "funnyshooter22",
+    "letter": "F",
+    "logo": "vendor/game-logos/clfunnyshooter22-515f7921.png",
+    "logoSource": "https://rawcdn.githack.com/hilfig3r/lolshooter2/97a7b3542843419db52216522a84a4f68a65a904/logo.png"
+  },
+  {
+    "file": "clgobble.html",
+    "title": "Gobble",
+    "letter": "G",
+    "logo": "vendor/game-logos/clgobble-266a58a6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/fancade@main/gobble/webapp/cover.jpg"
+  },
+  {
+    "file": "clgrn.html",
+    "title": "GRN Prototype",
+    "letter": "G",
+    "logo": "vendor/game-logos/clgrn-1a663426.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/grn/favicon.png"
+  },
+  {
+    "file": "clgrowdenio.html",
+    "title": "Grow a Garden in Growden.io",
+    "letter": "G",
+    "logo": "vendor/game-logos/clgrowdenio-a9f4132a.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/cg-rip@main/growden.io/logo.webp"
+  },
+  {
+    "file": "clhalflife.html",
+    "title": "halflife",
+    "letter": "H",
+    "logo": "vendor/game-logos/clhalflife-86fc3a56.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@354e3c6939a08e472482653567d566ba3a2aa527/half%20life/favicon.ico"
+  },
+  {
+    "file": "clhardwaretycoon.html",
+    "title": "Hardware Tycoon",
+    "letter": "H",
+    "logo": "vendor/game-logos/clhardwaretycoon-10ebed76.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@8d3c8217ec14be44027d6fced6f837cc7ffa1249/hardware%20tycoon/icon-256.png"
+  },
+  {
+    "file": "clhellron.html",
+    "title": "HellroN",
+    "letter": "H",
+    "logo": "vendor/game-logos/clhellron-1cd2a4c4.png",
+    "logoSource": "https://cdn.statically.io/gh/Stinkalistic/UGS/main/MISC/hellron/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clhelpnobrakes.html",
+    "title": "HELP NO BRAKE",
+    "letter": "H",
+    "logo": "vendor/game-logos/clhelpnobrakes-bd1fd558.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/SWAGgames@main/helpnobrakes!/index.icon.png"
+  },
+  {
+    "file": "clhero3flyingrobot.html",
+    "title": "hero3flyingrobot",
+    "letter": "H",
+    "logo": "vendor/game-logos/clhero3flyingrobot-56f8f2a4.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/faralong/all@main/hero3/logo.png"
+  },
+  {
+    "file": "clhitstunfly.html",
+    "title": "HitStunFly",
+    "letter": "H",
+    "logo": "vendor/game-logos/clhitstunfly-5ac93842.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/hitstunfly/index.icon.png"
+  },
+  {
+    "file": "clholebattle.html",
+    "title": "holebattle",
+    "letter": "H",
+    "logo": "vendor/game-logos/clholebattle-59106e56.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/shayderrr/portsv2@main/holebattle/logo.png"
+  },
+  {
+    "file": "clhumanexpenditureprogram.html",
+    "title": "HUMAN EXPENDITURE PROGRAM",
+    "letter": "H",
+    "logo": "vendor/game-logos/clhumanexpenditureprogram-8937ab89.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/web-port@main/human-expenditure-program/icon/icon.png"
+  },
+  {
+    "file": "clicedodo.html",
+    "title": "Ice Dodo - Play Online at Onionfist.com",
+    "letter": "I",
+    "logo": "vendor/game-logos/clicedodo-a98cbba3.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/ice-dodo@b950830c255518c930fbc2a0bd3182e7d4cc920c/assets/icons/duck.png"
+  },
+  {
+    "file": "clidledice.html",
+    "title": "Idle Dice",
+    "letter": "I",
+    "logo": "vendor/game-logos/clidledice-0e752aff.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Luts91/Luts91.github.io@master/idle-dices/assets/img/icon/icon128.png"
+  },
+  {
+    "file": "clidlefootballmanager.html",
+    "title": "Idle Football Manager",
+    "letter": "I",
+    "logo": "vendor/game-logos/clidlefootballmanager-b053bc9f.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/idle-football-manager/icon.ico"
+  },
+  {
+    "file": "clidleidlegamedev.html",
+    "title": "Idle IdleGameDev",
+    "letter": "I",
+    "logo": "vendor/game-logos/clidleidlegamedev-6e20e4b7.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@502d9929c38769d4f92f8199334b596486b038f7/idle%20idle%20game%20dev/assets/img/icon/icon256.png"
+  },
+  {
+    "file": "clintellisphere.html",
+    "title": "IntelliSphere",
+    "letter": "I",
+    "logo": "vendor/game-logos/clintellisphere-eeeb96f6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Deformed-steve/the-chesse-stash@main/games/intellisphere/IntelliSphere.apple-touch-icon.png"
+  },
+  {
+    "file": "clintothedeepweb.html",
+    "title": "Into the Deep Web",
+    "letter": "I",
+    "logo": "vendor/game-logos/clintothedeepweb-c07c83ce.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/SWAGgames@main/IntoTheDeepWeb/favicon.png"
+  },
+  {
+    "file": "cljazzjackrabbit2.html",
+    "title": "jazzjackrabbit2",
+    "letter": "J",
+    "logo": "vendor/game-logos/cljazzjackrabbit2-ada48107.png",
+    "logoSource": "https://rawcdn.githack.com/Stinkalistic/UGS/cead580593b0a81e9dc197057521ccbcb7e7ca61/MISC/jazz2/logo.gif"
+  },
+  {
+    "file": "cljellymario.html",
+    "title": "Jelly Mario",
+    "letter": "J",
+    "logo": "vendor/game-logos/cljellymario-df4d7eb9.png",
+    "logoSource": "http://jellymar.io/jelly-mario.gif"
+  },
+  {
+    "file": "cljumpingshell.html",
+    "title": "Jumping Shell",
+    "letter": "J",
+    "logo": "vendor/game-logos/cljumpingshell-859e3de1.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@dbdca8d3035fa078b774545e33c85a7eb6110088/jumping%20shell/favicon.png"
+  },
+  {
+    "file": "cljustaplatformerE2.html",
+    "title": "just a level editor 2",
+    "letter": "J",
+    "logo": "vendor/game-logos/cljustaplatformerE2-246828ef.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/justaplatformerstuff/pics/just-a-level-editor-2.png"
+  },
+  {
+    "file": "cljustaplatformer.html",
+    "title": "just a platformer",
+    "letter": "J",
+    "logo": "vendor/game-logos/cljustaplatformer-cba9142a.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/TheTastyPi/just-a-platformer@main/pics/just-a-platformer.png"
+  },
+  {
+    "file": "clkartbros.html",
+    "title": "KART BROS! - Free Online .io Kart Racing Game",
+    "letter": "K",
+    "logo": "vendor/game-logos/clkartbros-592589e4.png",
+    "logoSource": "https://kartbros.io/TemplateData/kartbros_embed.jpg"
+  },
+  {
+    "file": "clkonkrio.html",
+    "title": "Konkr.io",
+    "letter": "K",
+    "logo": "vendor/game-logos/clkonkrio-06803631.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/konkr/releases/2.35.27/icons/regular-192.png"
+  },
+  {
+    "file": "clmagictiles3.html",
+    "title": "magictiles3",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmagictiles3-95b6f9d5.png",
+    "logoSource": "https://rawcdn.githack.com/bubbls/youtube-playables/1b8d5d149e9498d3ea95aad1037d1411511d41d3/magic-tiles-3/logo_expanded.jpeg"
+  },
+  {
+    "file": "clmariomadness.html",
+    "title": "Mariomadness",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmariomadness-ab3d7b99.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/mll-enh/diesmosfilehost@8679c0fe47a99f5657f04958fd06c5abdaa4a6b9/MM/favicon.png"
+  },
+  {
+    "file": "clmattv2.html",
+    "title": "Mattv 2",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmattv2-5ad14926.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/matt-v2/favicon.png"
+  },
+  {
+    "file": "clmergeroundracers.html",
+    "title": "Merge Round Racers",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmergeroundracers-c1181d34.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@e9e43011bc2c9be418a4f5cc79f8b4d9fcd6c2ce/merge%20round%20racers/splash.png"
+  },
+  {
+    "file": "clminecraftshooter.html",
+    "title": "minecraftshooter",
+    "letter": "M",
+    "logo": "vendor/game-logos/clminecraftshooter-f5709699.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/mineshootmm/logo.png"
+  },
+  {
+    "file": "clmineshooter.html",
+    "title": "mineshooter",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmineshooter-e0ff391d.png",
+    "logoSource": "https://rawcdn.githack.com/CoolDude2349/everything/main/mineshoot/logo.png"
+  },
+  {
+    "file": "clminicrossword.html",
+    "title": "Mini Crossword",
+    "letter": "M",
+    "logo": "vendor/game-logos/clminicrossword-c9e1a94b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/braybray/crossword/media/graphics/promo/icons/favicon.ico"
+  },
+  {
+    "file": "clmoneyrush.html",
+    "title": "moneyrush",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmoneyrush-c5395ce9.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/brainrot@main/money-rush/logo.png"
+  },
+  {
+    "file": "clmonstertracks.html",
+    "title": "Monster Tracks",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmonstertracks-ecd2bcee.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/google-class/monster-tracks/webapp/cover.jpg"
+  },
+  {
+    "file": "clmrracer.html",
+    "title": "MR RACER",
+    "letter": "M",
+    "logo": "vendor/game-logos/clmrracer-0bdf8205.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/cooldude2349/everything@main/mrracerrr/icon.png"
+  },
+  {
+    "file": "clngon.html",
+    "title": "n-gon",
+    "letter": "N",
+    "logo": "vendor/game-logos/clngon-95d5ab28.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/landgreen/n-gon@master/favicon.ico"
+  },
+  {
+    "file": "clnikehub.html",
+    "title": "NikeHub",
+    "letter": "N",
+    "logo": "vendor/game-logos/clnikehub-14e8a5d6.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/NoseyGames/data@main/favicon.png"
+  },
+  {
+    "file": "clnzp.html",
+    "title": "NZ: Portable",
+    "letter": "N",
+    "logo": "vendor/game-logos/clnzp-1ffbdf26.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/ugss@main/nzp-/nzportable.ico"
+  },
+  {
+    "file": "clobbybike.html",
+    "title": "obbybike",
+    "letter": "O",
+    "logo": "vendor/game-logos/clobbybike-b7702935.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/obby-bike/logo.png"
+  },
+  {
+    "file": "clomegalayers.html",
+    "title": "omegalayers",
+    "letter": "O",
+    "logo": "vendor/game-logos/clomegalayers-2c2d9164.png",
+    "logoSource": "https://veprogames.github.io/omega-layers/cover.png"
+  },
+  {
+    "file": "clonlyup.html",
+    "title": "onlyup",
+    "letter": "O",
+    "logo": "vendor/game-logos/clonlyup-1d374143.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/sz-games/Games8@d12ca56d8b0a51ee19122003c75987a349816837/only-up/icon.png"
+  },
+  {
+    "file": "clovofixed.html",
+    "title": "OvO",
+    "letter": "O",
+    "logo": "vendor/game-logos/clovofixed-119956b8.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/ovomod/icon-256.png"
+  },
+  {
+    "file": "clovodimensions.html",
+    "title": "OvO Dimensions",
+    "letter": "O",
+    "logo": "vendor/game-logos/clovodimensions-7d2f2687.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/ovo-3-dimension@102179bf4242fd237c46c555ba154c2f325d351c/icon-256.png"
+  },
+  {
+    "file": "clpaperio.html",
+    "title": "paperio",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpaperio-bf917d88.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/MartinTintin3/melvin-games@e4de505d194355c344977981cdf3b2cfe5075c52/games/paper.io-2/images/logo.png"
+  },
+  {
+    "file": "clpereelous.html",
+    "title": "Pereelous",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpereelous-f7a3b0ef.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/pereelous/index.icon.png"
+  },
+  {
+    "file": "clpinkbike.html",
+    "title": "Pinkbike's Grim Donut Game",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpinkbike-9d70f60b.png",
+    "logoSource": "https://es.pinkbike.org/246/sprt/i/share/grimdonutgame.jpg"
+  },
+  {
+    "file": "clplonky.html",
+    "title": "Plonky",
+    "letter": "P",
+    "logo": "vendor/game-logos/clplonky-8341a2da.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/faralong/all@main/plonkyy/icons/icon-128.png"
+  },
+  {
+    "file": "clpokepath.html",
+    "title": "pokepath",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpokepath-f65a8d9e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/pokepath/src/assets/icon.ico"
+  },
+  {
+    "file": "clpoorbunny.html",
+    "title": "Poor Bunny",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpoorbunny-71fc903a.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@00b33545cc0fd6086f72f2a635822983fcf2b7c4/poor-bunny/favicon.png"
+  },
+  {
+    "file": "clportal2d.html",
+    "title": "Portal 2D",
+    "letter": "P",
+    "logo": "vendor/game-logos/clportal2d-33aec759.png",
+    "logoSource": "https://cdn.statically.io/gh/Stinkalistic/SWAGgames/main/portal2d/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clpostal.html",
+    "title": "POSTAL: Play FREE on the web",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpostal-b7ae0efb.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/postal/play-postal-free.jpg"
+  },
+  {
+    "file": "clpou(1).html",
+    "title": "Pou",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpou-1-48f2b67a.png",
+    "logoSource": "https://rawcdn.githack.com/bubbls/youtube-playables/main/pou/assets/icon.png"
+  },
+  {
+    "file": "clpuppethockey.html",
+    "title": "Puppet Hockey Battle",
+    "letter": "P",
+    "logo": "vendor/game-logos/clpuppethockey-21b94924.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@927c5e7b35d9117d0bfc986f7bb5a3778d360f13/puppet%20hockey/icon-256.png"
+  },
+  {
+    "file": "clPVZM.html",
+    "title": "PVZM",
+    "letter": "P",
+    "logo": "vendor/game-logos/clPVZM-a555beda.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/greeniYT/pvz@main/game/images/interface/icon_exclamation.png"
+  },
+  {
+    "file": "clrecoil.html",
+    "title": "Recoil Unblocked",
+    "letter": "R",
+    "logo": "vendor/game-logos/clrecoil-6629859f.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/recoil/webapp/cover.jpg"
+  },
+  {
+    "file": "clredball4.html",
+    "title": "redball4",
+    "letter": "R",
+    "logo": "vendor/game-logos/clredball4-8471ec53.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/greeniYT/y@main/rdbal/images/logo.png"
+  },
+  {
+    "file": "clresizer.html",
+    "title": "Resizer",
+    "letter": "R",
+    "logo": "vendor/game-logos/clresizer-13afb66e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@1c68bb190b1df2d4256afad7c8352612b92ad867/resizer/favicon.png"
+  },
+  {
+    "file": "clretrobowl.html",
+    "title": "Retro Bowl",
+    "letter": "R",
+    "logo": "vendor/game-logos/clretrobowl-6c6d7b2e.ico",
+    "logoSource": "https://cdn.jsdelivr.net/gh/selenite-cc/selenite-old@9c743188888af0986c8c7b293dbac8f9e421a4ee/retrobowl/retrobowl.ico"
+  },
+  {
+    "file": "clrisehigher.html",
+    "title": "Rise Higher",
+    "letter": "R",
+    "logo": "vendor/game-logos/clrisehigher-ad3117e0.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/greeniYT/seraph@main/games/risehigher/media/graphics/splash/cover-start.png"
+  },
+  {
+    "file": "clrollyvortex.html",
+    "title": "Rolly Vortex",
+    "letter": "R",
+    "logo": "vendor/game-logos/clrollyvortex-512cb1a8.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@4533a55cb065e8df0208d9023236d5ee62dbf116/rolly%20vortex/icon-256.png"
+  },
+  {
+    "file": "clrun3.html",
+    "title": "Run 3",
+    "letter": "R",
+    "logo": "vendor/game-logos/clrun3-249e2e4e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/VinMannie/Run_3@gh-pages/favicon.png"
+  },
+  {
+    "file": "clrussiansandbox.html",
+    "title": "russian sandbox lol",
+    "letter": "R",
+    "logo": "vendor/game-logos/clrussiansandbox-a63926b4.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/shayderrr/portsv2@main/sandbox/icon.png"
+  },
+  {
+    "file": "clrussianbuckshot.html",
+    "title": "russianbuckshot",
+    "letter": "R",
+    "logo": "vendor/game-logos/clrussianbuckshot-34e8f1be.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/russian-buckshot/logo.png"
+  },
+  {
+    "file": "clsaihatestation.html",
+    "title": "Saihatestation",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsaihatestation-d177349f.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/web-ports/saihate-station@main/icon/icon.png"
+  },
+  {
+    "file": "clsandboxcity.html",
+    "title": "sandboxcity",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsandboxcity-5a8d28b3.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/faralong/all@main/sandboxcity/logo.png"
+  },
+  {
+    "file": "clsandboxels.html",
+    "title": "Sandboxels - Experiment with Pixels",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsandboxels-4e7cd9ff.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/R74nCom/sandboxels@main/icons/cover-3840x1240px.webp"
+  },
+  {
+    "file": "clsatryn.html",
+    "title": "satryn",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsatryn-6013454e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS/MISC/satryn/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clserenitrove.html",
+    "title": "Serenitrove",
+    "letter": "S",
+    "logo": "vendor/game-logos/clserenitrove-c76a442b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/serenitrove/turtle.png"
+  },
+  {
+    "file": "clsilk.html",
+    "title": "Silk – Interactive Generative Art",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsilk-335b357d.png",
+    "logoSource": "http://weavesilk.com/img/silk_thumb.png"
+  },
+  {
+    "file": "clsiloshowdow.html",
+    "title": "Siloshowdow",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsiloshowdow-c5e6baef.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@5a10e4807bce6070b5f3f7f18c1eed34230cddf2/silohuette%20showdown/SilhoutteShowdownV090.icon.png"
+  },
+  {
+    "file": "clsixwaystodie.html",
+    "title": "Six Ways To Suffer",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsixwaystodie-3edac37f.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/six-ways-to-suffer-lolol/index.icon.png"
+  },
+  {
+    "file": "clslotornot.html",
+    "title": "Slot or Not",
+    "letter": "S",
+    "logo": "vendor/game-logos/clslotornot-b4388dc3.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@3fd4770c44c7de90d99d09b31d8cc0d4fb1ebcb5/slot%20or%20not/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clslowroads.html",
+    "title": "Slowroads",
+    "letter": "S",
+    "logo": "vendor/game-logos/clslowroads-c11cb67d.svg",
+    "logoSource": "https://cdn.jsdelivr.net/gh/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io@main/games/slow-roads-main/slow-roads-main/favicon_circle.svg"
+  },
+  {
+    "file": "clsm63redux.html",
+    "title": "Sm 63 Redux",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsm63redux-fd8e353c.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/sm63/index.icon.png"
+  },
+  {
+    "file": "clsmbgameover.html",
+    "title": "Smbgameover",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsmbgameover-c47c25a1.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/fnf-mods@main/smb-game-over/favicon.png"
+  },
+  {
+    "file": "clsmbremastered.html",
+    "title": "Smbremastered",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsmbremastered-869abb0c.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/ports@main/smb-remastered/SMB1R.apple-touch-icon.png"
+  },
+  {
+    "file": "clsmc.html",
+    "title": "Smc",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsmc-7aa77249.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/greeniYT/smc@main/icons/icon-512.png"
+  },
+  {
+    "file": "clsoccerbros.html",
+    "title": "Soccer Bros",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsoccerbros-f242f4b0.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@74d476b72d23ea1cebc9af41306baab442fe632c/soccer%20bros/favicon.png"
+  },
+  {
+    "file": "clsolarsandbox.html",
+    "title": "solar sandbox",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsolarsandbox-179b8912.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/solar-sandbox/index.icon.png"
+  },
+  {
+    "file": "clsoniccdmobile.html",
+    "title": "Sonic CD",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsoniccdmobile-dc04f77c.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/UGBONTOP/ugs-soniccd@main/image_2026-02-28_164525280.png"
+  },
+  {
+    "file": "clsonicmaniaplus.html",
+    "title": "Sonic Mania",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsonicmaniaplus-e753882b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@main/image_2026-02-26_224423134.png"
+  },
+  {
+    "file": "clspacecompany.html",
+    "title": "Space Company",
+    "letter": "S",
+    "logo": "vendor/game-logos/clspacecompany-b38bade0.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@686a21cfe19170a5ca9c3eee59d1cd886d702bed/space%20company/whiteLogo.png"
+  },
+  {
+    "file": "clspacewaves.html",
+    "title": "Space Waves",
+    "letter": "S",
+    "logo": "vendor/game-logos/clspacewaves-bae38da9.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@d84a892372bc6e836fafbd784d9c12f83071b9e3/space%20waves/logo.png"
+  },
+  {
+    "file": "clspelunky.html",
+    "title": "SpelunkyClassicHD",
+    "letter": "S",
+    "logo": "vendor/game-logos/clspelunky-8c3a78f2.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/spelunky/favicon.ico"
+  },
+  {
+    "file": "clstacktris.html",
+    "title": "Stacktris",
+    "letter": "S",
+    "logo": "vendor/game-logos/clstacktris-68e2f84b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@7edd971a7c7283829db983c25289230aa9c782d1/stacktris/webapp/cover.jpg"
+  },
+  {
+    "file": "clstickfighter.html",
+    "title": "StickFighter",
+    "letter": "S",
+    "logo": "vendor/game-logos/clstickfighter-9fa6c91b.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/cooldude2349/everything@main/stickfight/icons/icon-32.png"
+  },
+  {
+    "file": "clstickjetchallenge.html",
+    "title": "Stickjet Challenge",
+    "letter": "S",
+    "logo": "vendor/game-logos/clstickjetchallenge-83b96521.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/CoolDude2349/everything@main/stickjet/icons/icon-512.png"
+  },
+  {
+    "file": "clStickmanKingdomclash.html",
+    "title": "Stickman Kingdom Clash",
+    "letter": "S",
+    "logo": "vendor/game-logos/clStickmanKingdomclash-c46ad600.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@646b8183aa1d6c61b073dc5ade2f550bace125b9/Stickman%20Clash/index.icon.png"
+  },
+  {
+    "file": "clsuperkidadventure.htm",
+    "title": "Super Kid",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsuperkidadventure-ea18e536.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@ba989510bb0ce9d30d019e7449a9c4231737059c/super%20kid%20adventure/icon-256.png"
+  },
+  {
+    "file": "clmomoscrushers.html",
+    "title": "Super Momos Crushers",
+    "letter": "S",
+    "logo": "vendor/game-logos/clmomoscrushers-82918d4e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/momos-crusher/icons/icon-128.png"
+  },
+  {
+    "file": "clsuperonionboy2.html",
+    "title": "Super Onion Boy 2",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsuperonionboy2-c47d11e8.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/super-onion-boy-2/icons/icon-512.png"
+  },
+  {
+    "file": "clsupercold.html",
+    "title": "SUPERCOLD",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsupercold-9158151a.png",
+    "logoSource": "https://import-this.github.io/supercold/img/wallpaper.png"
+  },
+  {
+    "file": "clsuperdromebugs.html",
+    "title": "SuperDrome Bugs",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsuperdromebugs-908d1062.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/superdromebugs/favicon.png"
+  },
+  {
+    "file": "clsuperhot.html",
+    "title": "SUPERHOT",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsuperhot-65825f19.jpg",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/superhot/hot.jpg"
+  },
+  {
+    "file": "clsupitdept.html",
+    "title": "supitdept",
+    "letter": "S",
+    "logo": "vendor/game-logos/clsupitdept-02ec5997.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@e4eef50361d9e575bc7cd834e14388c6e675a67e/steal%20brainrot/Images/logo.png"
+  },
+  {
+    "file": "clswitchblade.html",
+    "title": "Switchblade",
+    "letter": "S",
+    "logo": "vendor/game-logos/clswitchblade-e44651ec.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@f3c53772170e859bbd9af0cd42e4a2e2701a20af/switchblade/index.apple-touch-icon.png"
+  },
+  {
+    "file": "cltailofthedragon.html",
+    "title": "Tail of the Dragon",
+    "letter": "T",
+    "logo": "vendor/game-logos/cltailofthedragon-1094e979.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/dragon/files/favicon.png"
+  },
+  {
+    "file": "cltaisei.html",
+    "title": "Taisei Project — Web version (Experimental!)",
+    "letter": "T",
+    "logo": "vendor/game-logos/cltaisei-1b326d99.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/taisei/favicon.ico"
+  },
+  {
+    "file": "cltaproad.html",
+    "title": "Tap Road",
+    "letter": "T",
+    "logo": "vendor/game-logos/cltaproad-a8145d7f.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/faralong/all@main/taproad/image/logo.png"
+  },
+  {
+    "file": "cltemplerun2.html",
+    "title": "Temple Run 2",
+    "letter": "T",
+    "logo": "vendor/game-logos/cltemplerun2-5e9490bc.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/google-class/temple-run-2/img/og-icon.png"
+  },
+  {
+    "file": "clfinalearth2.html",
+    "title": "The Final Earth 2",
+    "letter": "T",
+    "logo": "vendor/game-logos/clfinalearth2-8b378919.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/final%20earth%202/icons/favicon.png"
+  },
+  {
+    "file": "clthwack.html",
+    "title": "Thwack",
+    "letter": "T",
+    "logo": "vendor/game-logos/clthwack-8fe6b842.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/thwack/index.icon.png"
+  },
+  {
+    "file": "cltimeshooter2.html",
+    "title": "Time Shooter 2",
+    "letter": "T",
+    "logo": "vendor/game-logos/cltimeshooter2-add1abe0.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/mistirk/googleapis@499ff451605f5a085318b5d6252b4e1d93f456d1/grafeas/v1/logo.png"
+  },
+  {
+    "file": "cltimeshooter3.html",
+    "title": "Time Shooter 3 SWAT",
+    "letter": "T",
+    "logo": "vendor/game-logos/cltimeshooter3-46c85ef8.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/mistirk/google@eebffdf79a14f6e01e153d5cd4bed23c432874fb/version/time-s3/logo.png"
+  },
+  {
+    "file": "cltowerwizard.html",
+    "title": "Tower Wizard",
+    "letter": "T",
+    "logo": "vendor/game-logos/cltowerwizard-92bc43d3.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/InsayneBoko/TowerWizard@latest/port/index.apple-touch-icon.png"
+  },
+  {
+    "file": "clundertaleyellow.html",
+    "title": "UNDERTALE Yellow",
+    "letter": "U",
+    "logo": "vendor/game-logos/clundertaleyellow-04174bf4.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/1e295a49108e716ce8ab7eba0c8dca7d/9326265e4f1b14345a3bdab6f8ffad0e2e7ab3fda920c5f0f095f77359af00aeae22591c5bc4914c84c13d99eb62091d7ce7@main/utyweb/fav.ico"
+  },
+  {
+    "file": "clundertalelb.html",
+    "title": "Undertalelb",
+    "letter": "U",
+    "logo": "vendor/game-logos/clundertalelb-24c4752e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/ut-last-breath/icon-256.png"
+  },
+  {
+    "file": "clunicyclehero.html",
+    "title": "Unicyclehero",
+    "letter": "U",
+    "logo": "vendor/game-logos/clunicyclehero-140a8e67.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@8874e6849ea73acaedd853ff61ea04d981fce7dd/unicycle%20hero/favicon.png"
+  },
+  {
+    "file": "clunitresdreams.html",
+    "title": "UNITRES - Tech Demo",
+    "letter": "U",
+    "logo": "vendor/game-logos/clunitresdreams-caa66e36.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/infinite-trees/icon-256.png"
+  },
+  {
+    "file": "clvampiresurvivors.html",
+    "title": "Vampire Survivors",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvampiresurvivors-34e5500e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/vampiresurvivors/icons/icons-192.png"
+  },
+  {
+    "file": "clvex3xmas.html",
+    "title": "Vex 3 Xmas",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvex3xmas-fd283c3c.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/vex/3-xmas/assets/icon.png"
+  },
+  {
+    "file": "clvex4.html",
+    "title": "Vex 4",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvex4-c94c57d5.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/CFiltered/Matt@50f9c1bd0d376b40cb8545519b147a4030598724/other/vex4/vex4.png"
+  },
+  {
+    "file": "clvex5.html",
+    "title": "Vex 5",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvex5-890ce5cb.jpg",
+    "logoSource": "https://cdn.jsdelivr.net/gh/EXM1LITARY/lio@7beab336469d96d153903e03dfe089ff2d2b035c/other/vex5/vex.jpeg"
+  },
+  {
+    "file": "clvex6.html",
+    "title": "Vex 6 Unblocked - xxx",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvex6-63aaaecf.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/vex/6/assets/icon.png"
+  },
+  {
+    "file": "clvex7.html",
+    "title": "Vex 7",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvex7-f0f1d220.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/vex/7/assets/icon.png"
+  },
+  {
+    "file": "clvex8.html",
+    "title": "Vex 8",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvex8-609baac8.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/vex/8/assets/icon.png"
+  },
+  {
+    "file": "clvexchallenges.html",
+    "title": "Vex Challenges",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvexchallenges-02e3869c.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/vex@1340a1189f16869133a4a42f11554b5d0ccc064b/challenges/assets/icon.png"
+  },
+  {
+    "file": "clvexx3m.html",
+    "title": "Vex X3M",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvexx3m-f01fe576.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/vex@1340a1189f16869133a4a42f11554b5d0ccc064b/x3m/assets/icon.png"
+  },
+  {
+    "file": "clvexx3m2.html",
+    "title": "Vex X3M 2",
+    "letter": "V",
+    "logo": "vendor/game-logos/clvexx3m2-933c4b4e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/vex/x3m-2/assets/icon.png"
+  },
+  {
+    "file": "closu.html",
+    "title": "WebOsu 2.0!",
+    "letter": "W",
+    "logo": "vendor/game-logos/closu-9acd2531.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/osu/favicon.png"
+  },
+  {
+    "file": "clwheeliebike.html",
+    "title": "Wheelie Bike",
+    "letter": "W",
+    "logo": "vendor/game-logos/clwheeliebike-7644ff28.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@1a8377d87253610bca22dc9dc44f79020b395c1e/wheelie-bike/icons/icon-128.png"
+  },
+  {
+    "file": "clwordle.html",
+    "title": "Wordle",
+    "letter": "W",
+    "logo": "vendor/game-logos/clwordle-59b12f40.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/wordle/img/logo_192x192.png"
+  },
+  {
+    "file": "clwrassling.html",
+    "title": "Wrassling",
+    "letter": "W",
+    "logo": "vendor/game-logos/clwrassling-bd9e6a5e.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/faralong/all@main/wrassling/favicon.png"
+  },
+  {
+    "file": "clwrestlebros.html",
+    "title": "Wrestle Bros 🎮 Play Now on the Official Site",
+    "letter": "W",
+    "logo": "vendor/game-logos/clwrestlebros-38bb3993.png",
+    "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@0e4ecd6d318272b62cd671011d5afe60aec66321/wrestle%20bros/favicon.png"
+  },
+  {
+    "file": "clyohohoio.html",
+    "title": "Yohoho.io",
+    "letter": "Y",
+    "logo": "vendor/game-logos/clyohohoio-a9f444f0.svg",
+    "logoSource": "https://cdn.jsdelivr.net/gh/deformed-steve/yohohoio@main/img/logout.svg"
+  }
+]
