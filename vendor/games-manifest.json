@@ -117,7 +117,9 @@
   {
     "file": "cl3dash.html",
     "title": "3dash",
-    "letter": "#"
+    "letter": "#",
+    "logo": "vendor/game-logos/cl3dash-24198f0222.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/3dash.webp"
   },
   {
     "file": "cl3dasheditor.html",
@@ -174,7 +176,9 @@
   {
     "file": "cl500calibercontractz.html",
     "title": "500calibercontractz",
-    "letter": "#"
+    "letter": "#",
+    "logo": "vendor/game-logos/cl500calibercontractz-c9f3fbb988.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/500calibercontractz.webp"
   },
   {
     "file": "cl60secondsburgerrun.html",
@@ -630,7 +634,9 @@
   {
     "file": "clanimalcrossingwildworld.html",
     "title": "animalcrossingwildworld",
-    "letter": "A"
+    "letter": "A",
+    "logo": "vendor/game-logos/clanimalcrossingwildworld-dcc8136d82.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/animalcrossingwildworld.png"
   },
   {
     "file": "clanimalforestn64.html",
@@ -773,7 +779,9 @@
   {
     "file": "clasteroids.html",
     "title": "asteroids",
-    "letter": "A"
+    "letter": "A",
+    "logo": "vendor/game-logos/clasteroids-17b26c0e76.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/asteroids.jpg"
   },
   {
     "file": "clasteroidsALT.html",
@@ -1147,7 +1155,9 @@
   {
     "file": "clbankbreakout2.html",
     "title": "bankbreakout2",
-    "letter": "B"
+    "letter": "B",
+    "logo": "vendor/game-logos/clbankbreakout2-91d8a6be23.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/bankrobbery2.webp"
   },
   {
     "file": "clbankrobbery2.html",
@@ -1672,7 +1682,9 @@
   {
     "file": "clblumgiracers.html",
     "title": "blumgiracers",
-    "letter": "B"
+    "letter": "B",
+    "logo": "vendor/game-logos/clblumgiracers-aa1ff4735d.avif",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/blumgiracers.avif"
   },
   {
     "file": "clblumgirocket.html",
@@ -1742,7 +1754,9 @@
   {
     "file": "clbombermanworld.html",
     "title": "bombermanworld",
-    "letter": "B"
+    "letter": "B",
+    "logo": "vendor/game-logos/clbombermanworld-1858756bf6.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/bombermanworld.jpg"
   },
   {
     "file": "clBonanza-Bros.html",
@@ -1887,12 +1901,16 @@
   {
     "file": "clBTD1.html",
     "title": "BTD1",
-    "letter": "B"
+    "letter": "B",
+    "logo": "vendor/game-logos/clbtd1-0b3d731a73.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/btd1.jpg"
   },
   {
     "file": "clbtd5.html",
     "title": "btd5",
-    "letter": "B"
+    "letter": "B",
+    "logo": "vendor/game-logos/clbtd5-08ac8ee241.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/btd5.jpg"
   },
   {
     "file": "clbtts.html",
@@ -1974,7 +1992,9 @@
   {
     "file": "clbulletforce.html",
     "title": "bulletforce",
-    "letter": "B"
+    "letter": "B",
+    "logo": "vendor/game-logos/clbulletforce-bed355aee8.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/bulletforce.png"
   },
   {
     "file": "clbunnyland.html",
@@ -2794,7 +2814,9 @@
   {
     "file": "clcrashbandicoot.html",
     "title": "crashbandicoot",
-    "letter": "C"
+    "letter": "C",
+    "logo": "vendor/game-logos/clcrashbandicoot-a34a307078.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/crashbandicoot.jpg"
   },
   {
     "file": "clcrashbandicoot (1).html",
@@ -2804,7 +2826,9 @@
   {
     "file": "clcrashbandicoot2.html",
     "title": "crashbandicoot2",
-    "letter": "C"
+    "letter": "C",
+    "logo": "vendor/game-logos/clcrashbandicoot2-466241cc5f.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/crashbandicoot2.png"
   },
   {
     "file": "clcrashbash.html",
@@ -2955,7 +2979,9 @@
   {
     "file": "clcustomersupport.html",
     "title": "customersupport",
-    "letter": "C"
+    "letter": "C",
+    "logo": "vendor/game-logos/clcustomersupport-f410d19bdc.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/customersupport.jpg"
   },
   {
     "file": "clcuttherope.html",
@@ -3219,7 +3245,9 @@
   {
     "file": "cldeltarune.html",
     "title": "deltarune",
-    "letter": "D"
+    "letter": "D",
+    "logo": "vendor/game-logos/cldeltarune-0da6c538de.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/deltarune.png"
   },
   {
     "file": "cldeltatraveler.html",
@@ -3253,7 +3281,9 @@
   {
     "file": "cldiablo.html",
     "title": "diablo",
-    "letter": "D"
+    "letter": "D",
+    "logo": "vendor/game-logos/cldiablo-cb465fe266.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/diablo.png"
   },
   {
     "file": "cldiamondhollow.html",
@@ -3682,7 +3712,7 @@
   },
   {
     "file": "cldrivenwild.html",
-    "title": "Driven Wild! \ud83d\ude97\ud83c\udf34",
+    "title": "Driven Wild! 🚗🌴",
     "letter": "D",
     "logo": "vendor/game-logos/cldrivenwild-4b031459.png",
     "logoSource": "https://cdn.jsdelivr.net/gh/bubblfan/google-class@main/driven-wild/assets/DrivenWild.png"
@@ -5796,7 +5826,9 @@
   {
     "file": "clgettingoverit.html",
     "title": "gettingoverit",
-    "letter": "G"
+    "letter": "G",
+    "logo": "vendor/game-logos/clgettingoverit-391085483e.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/gettingoverit.jpg"
   },
   {
     "file": "clGettothetopalthoughthereisnotop.html",
@@ -5980,7 +6012,9 @@
   {
     "file": "clgoogledino.html",
     "title": "googledino",
-    "letter": "G"
+    "letter": "G",
+    "logo": "vendor/game-logos/clgoogledino-dd68965031.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/googledino.png"
   },
   {
     "file": "clgorescriptclassic.html",
@@ -6022,7 +6056,9 @@
   {
     "file": "clgrandtheftautoadvance.html",
     "title": "grandtheftautoadvance",
-    "letter": "G"
+    "letter": "G",
+    "logo": "vendor/game-logos/clgrandtheftautoadvance-a3c3894779.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/gtaadvance.webp"
   },
   {
     "file": "clgranny.html",
@@ -6151,7 +6187,9 @@
   {
     "file": "clgta2.html",
     "title": "gta2",
-    "letter": "G"
+    "letter": "G",
+    "logo": "vendor/game-logos/clgta2-e96930a9cb.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/gta2.jpg"
   },
   {
     "file": "clgta22.html",
@@ -7283,7 +7321,9 @@
   {
     "file": "clkirbysadventure.html",
     "title": "kirbysadventure",
-    "letter": "K"
+    "letter": "K",
+    "logo": "vendor/game-logos/clkirbysadventure-1ee3b20618.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/kirbysadventure.webp"
   },
   {
     "file": "clkirbysdreamland.html",
@@ -7300,7 +7340,9 @@
   {
     "file": "clkirbysoftandwet.html",
     "title": "kirbysoftandwet",
-    "letter": "K"
+    "letter": "K",
+    "logo": "vendor/game-logos/clkirbysoftandwet-41792957ed.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/kirbysoftandwet.png"
   },
   {
     "file": "clkirbysqueaksquad.html",
@@ -7375,7 +7417,9 @@
   {
     "file": "clkourio.html",
     "title": "kourio",
-    "letter": "K"
+    "letter": "K",
+    "logo": "vendor/game-logos/clkourio-d93ed258ae.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/kourio.jpg"
   },
   {
     "file": "clks2teams.html",
@@ -8120,7 +8164,9 @@
   {
     "file": "clmaxpayne.html",
     "title": "maxpayne",
-    "letter": "M"
+    "letter": "M",
+    "logo": "vendor/game-logos/clmaxpayne-4540d99ea4.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/maxpayne.jpg"
   },
   {
     "file": "clmcfpsfbhd.html",
@@ -8784,7 +8830,9 @@
   {
     "file": "clmortalkombatadvance.html",
     "title": "mortalkombatadvance",
-    "letter": "M"
+    "letter": "M",
+    "logo": "vendor/game-logos/clmortalkombatadvance-769abbb0c2.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/mortalkombatadvance.jpg"
   },
   {
     "file": "clmortkom4.html",
@@ -9133,7 +9181,9 @@
   {
     "file": "clnickelodeonsuperbrawl2.html",
     "title": "nickelodeonsuperbrawl2",
-    "letter": "N"
+    "letter": "N",
+    "logo": "vendor/game-logos/clnickelodeonsuperbrawl2-4d4e1213b9.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/nickelodeonsuperbrawl2.webp"
   },
   {
     "file": "clNicktoonsFreezeFrameFrenzy.html",
@@ -9390,12 +9440,16 @@
   {
     "file": "clonepiece.html",
     "title": "onepiece",
-    "letter": "O"
+    "letter": "O",
+    "logo": "vendor/game-logos/clonepiece-256e280539.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/onepiece.jpg"
   },
   {
     "file": "clonepiecefighting.html",
     "title": "onepiecefighting",
-    "letter": "O"
+    "letter": "O",
+    "logo": "vendor/game-logos/clonepiecefighting-2aa057e296.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/onepiecefighting.jpg"
   },
   {
     "file": "cloneshotold.html",
@@ -9859,7 +9913,9 @@
   {
     "file": "clpersona2.html",
     "title": "persona2",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpersona2-9c422b8428.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/persona2.jpg"
   },
   {
     "file": "clpersona2alt.html",
@@ -10005,7 +10061,9 @@
   {
     "file": "clpint.html",
     "title": "pint",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpint-8f59f9e4eb.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/pretenditsnotthere.png"
   },
   {
     "file": "clpitfall.html",
@@ -10044,7 +10102,9 @@
   {
     "file": "clpixelshooter.html",
     "title": "pixelshooter",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpixelshooter-0c1fa1ceea.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/pixelshooter.png"
   },
   {
     "file": "clpixelspeedrun.html",
@@ -10481,7 +10541,9 @@
   {
     "file": "clpokemonquetzal.html",
     "title": "pokemonquetzal",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpokemonquetzal-c159939256.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/pokemonquetzal.jpg"
   },
   {
     "file": "clpokemonroaringred.html",
@@ -10566,12 +10628,16 @@
   {
     "file": "clpokemonstadium2.html",
     "title": "pokemonstadium2",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpokemonstadium2-0e3ff88ded.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/pokemonstadium2.jpg"
   },
   {
     "file": "clpokemontowerdefense.html",
     "title": "pokemontowerdefense",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpokemontowerdefense-c97fa4c61a.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/pokemontowerdefense.webp"
   },
   {
     "file": "clpokemonultimatefusion.html",
@@ -10828,23 +10894,23 @@
     "letter": "P"
   },
   {
-    "file": "clPok\u00e9mon Emerald Rush Edition (20).html",
-    "title": "Pok\u00e9mon Emerald Rush Edition (20)",
+    "file": "clPokémon Emerald Rush Edition (20).html",
+    "title": "Pokémon Emerald Rush Edition (20)",
     "letter": "P"
   },
   {
-    "file": "clPok\u00e9mon Trade&_Stache (V11).html",
-    "title": "Pok\u00e9mon Trade& Stache (V11)",
+    "file": "clPokémon Trade&_Stache (V11).html",
+    "title": "Pokémon Trade& Stache (V11)",
     "letter": "P"
   },
   {
-    "file": "clPok\u00e9mon TWO (v11).html",
-    "title": "Pok\u00e9mon TWO (v11)",
+    "file": "clPokémon TWO (v11).html",
+    "title": "Pokémon TWO (v11)",
     "letter": "P"
   },
   {
-    "file": "clPok\u00e9monstunningsteel.html",
-    "title": "Pok\u00e9monstunningsteel",
+    "file": "clPokémonstunningsteel.html",
+    "title": "Pokémonstunningsteel",
     "letter": "P"
   },
   {
@@ -11085,12 +11151,16 @@
   {
     "file": "clpvz.html",
     "title": "pvz",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpvz-5956e9e83d.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/pvz.jpg"
   },
   {
     "file": "clpvz2.html",
     "title": "pvz2",
-    "letter": "P"
+    "letter": "P",
+    "logo": "vendor/game-logos/clpvz2-56fae9536a.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/pvz2.webp"
   },
   {
     "file": "clpvz2gardenless.html",
@@ -11441,7 +11511,9 @@
   {
     "file": "clresidentevil.html",
     "title": "residentevil",
-    "letter": "R"
+    "letter": "R",
+    "logo": "vendor/game-logos/clresidentevil-0ffc123fa0.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/residentevil.jpg"
   },
   {
     "file": "clresidentevil2.html",
@@ -11629,7 +11701,9 @@
   {
     "file": "clroadoffury.html",
     "title": "roadoffury",
-    "letter": "R"
+    "letter": "R",
+    "logo": "vendor/game-logos/clroadoffury-f535958f92.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/roadoffury.png"
   },
   {
     "file": "clroadofthedead.html",
@@ -11765,7 +11839,9 @@
   {
     "file": "clroomclicker.html",
     "title": "roomclicker",
-    "letter": "R"
+    "letter": "R",
+    "logo": "vendor/game-logos/clroomclicker-4e8178b7da.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/roomclicker.jpg"
   },
   {
     "file": "clrosegold.html",
@@ -12284,7 +12360,7 @@
   },
   {
     "file": "clsilk.html",
-    "title": "Silk \u2013 Interactive Generative Art",
+    "title": "Silk – Interactive Generative Art",
     "letter": "S",
     "logo": "vendor/game-logos/clsilk-335b357d.png",
     "logoSource": "http://weavesilk.com/img/silk_thumb.png"
@@ -12986,7 +13062,9 @@
   {
     "file": "clsonicclassiccollection.html",
     "title": "sonicclassiccollection",
-    "letter": "S"
+    "letter": "S",
+    "logo": "vendor/game-logos/clsonicclassiccollection-8f2e5ae9cd.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/sonicclassiccollection.jpg"
   },
   {
     "file": "clsonicclassicheroes.html",
@@ -13026,7 +13104,9 @@
   {
     "file": "clsonicerazor.html",
     "title": "sonicerazor",
-    "letter": "S"
+    "letter": "S",
+    "logo": "vendor/game-logos/clsonicerazor-82563e7c41.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/sonicerazor.png"
   },
   {
     "file": "clsonicgg.html",
@@ -14029,7 +14109,9 @@
   {
     "file": "clsuperliquidsoccer.html",
     "title": "superliquidsoccer",
-    "letter": "S"
+    "letter": "S",
+    "logo": "vendor/game-logos/clsuperliquidsoccer-13b6881a93.webp",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/superliquidsoccer.webp"
   },
   {
     "file": "clsupermario.html",
@@ -14443,7 +14525,9 @@
   {
     "file": "clTaikonoTatsujin.html",
     "title": "Taikono Tatsujin",
-    "letter": "T"
+    "letter": "T",
+    "logo": "vendor/game-logos/cltaikonotatsujin-5f658b86c9.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/taikonotatsujin.png"
   },
   {
     "file": "cltailofthedragon.html",
@@ -14464,7 +14548,7 @@
   },
   {
     "file": "cltaisei.html",
-    "title": "Taisei Project \u2014 Web version (Experimental!)",
+    "title": "Taisei Project — Web version (Experimental!)",
     "letter": "T",
     "logo": "vendor/game-logos/cltaisei-1b326d99.png",
     "logoSource": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/taisei/favicon.ico"
@@ -14981,22 +15065,30 @@
   {
     "file": "cltouhou2.html",
     "title": "touhou2",
-    "letter": "T"
+    "letter": "T",
+    "logo": "vendor/game-logos/cltouhou2-d38c1d06b6.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/touhou2.png"
   },
   {
     "file": "cltouhou3.html",
     "title": "touhou3",
-    "letter": "T"
+    "letter": "T",
+    "logo": "vendor/game-logos/cltouhou3-0d8a4846c6.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/touhou3.png"
   },
   {
     "file": "cltouhou4.html",
     "title": "touhou4",
-    "letter": "T"
+    "letter": "T",
+    "logo": "vendor/game-logos/cltouhou4-c68310437a.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/touhou4.png"
   },
   {
     "file": "cltouhou5.html",
     "title": "touhou5",
-    "letter": "T"
+    "letter": "T",
+    "logo": "vendor/game-logos/cltouhou5-f755f04766.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/touhou5.png"
   },
   {
     "file": "cltowerwizard.html",
@@ -15032,7 +15124,9 @@
   {
     "file": "cltrafficjam3d.html",
     "title": "trafficjam3d",
-    "letter": "T"
+    "letter": "T",
+    "logo": "vendor/game-logos/cltrafficjam3d-53cd6fcf82.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/trafficjam3d.jpg"
   },
   {
     "file": "cltralalerotralalaescapetungtungtungsahur.html",
@@ -15181,7 +15275,9 @@
   {
     "file": "cltungtunghorror.html",
     "title": "tungtunghorror",
-    "letter": "T"
+    "letter": "T",
+    "logo": "vendor/game-logos/cltungtunghorror-8886bf006a.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/tungsahurhorror.jpg"
   },
   {
     "file": "cltungtungtungsahurobby.html",
@@ -15346,7 +15442,9 @@
   {
     "file": "clundertaler.html",
     "title": "undertaler",
-    "letter": "U"
+    "letter": "U",
+    "logo": "vendor/game-logos/clundertaler-6d24d5cc8c.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/undertale.png"
   },
   {
     "file": "clunfairmario.html",
@@ -15382,7 +15480,9 @@
   {
     "file": "cluno.html",
     "title": "uno",
-    "letter": "U"
+    "letter": "U",
+    "logo": "vendor/game-logos/cluno-4ad4167048.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/uno.jpg"
   },
   {
     "file": "clunownking.html",
@@ -15697,7 +15797,9 @@
   {
     "file": "clwavedash.html",
     "title": "wavedash",
-    "letter": "W"
+    "letter": "W",
+    "logo": "vendor/game-logos/clwavedash-c9a284db8c.jpg",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/wavedash.jpg"
   },
   {
     "file": "clwaverace64.html",
@@ -15764,7 +15866,9 @@
   {
     "file": "clwhackyourboss.html",
     "title": "whackyourboss",
-    "letter": "W"
+    "letter": "W",
+    "logo": "vendor/game-logos/clwhackyourboss-d2ba489a83.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/whackyourboss.png"
   },
   {
     "file": "clwhackyourcomputer.html",
@@ -15963,7 +16067,7 @@
   },
   {
     "file": "clwrestlebros.html",
-    "title": "Wrestle Bros \ud83c\udfae Play Now on the Official Site",
+    "title": "Wrestle Bros 🎮 Play Now on the Official Site",
     "letter": "W",
     "logo": "vendor/game-logos/clwrestlebros-38bb3993.png",
     "logoSource": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@0e4ecd6d318272b62cd671011d5afe60aec66321/wrestle%20bros/favicon.png"
@@ -16064,7 +16168,9 @@
   {
     "file": "clzdoom.html",
     "title": "zdoom",
-    "letter": "Z"
+    "letter": "Z",
+    "logo": "vendor/game-logos/clzdoom-2dfc61fdd2.png",
+    "logoSource": "https://raw.githubusercontent.com/WanoCapy/ChickenKingsVault/main/gameimages/zdoom.png"
   },
   {
     "file": "clZeldaIndigoch2.html",
@@ -16155,13 +16261,13 @@
     "letter": "Z"
   },
   {
-    "file": "cl\u00d6oo.html",
-    "title": "\u00d6oo",
-    "letter": "\u00d6"
+    "file": "clÖoo.html",
+    "title": "Öoo",
+    "letter": "Ö"
   },
   {
-    "file": "cl\u0298.html",
-    "title": "\u0298",
-    "letter": "\u0298"
+    "file": "clʘ.html",
+    "title": "ʘ",
+    "letter": "ʘ"
   }
 ]
